@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands present case stated ... partly occasioned by the late proclamation for the convening of a Parliament ... wherein the arbitrary unparallel'd proceedings of the army and their adherents, since 1641 to this time, their dissolving of all Parliament powers and governments to perpetuate themselves are discussed and discovered ... : as also a declaration to live and die with the generals by authority of Parliament and the city of London in defence of the Parliament, laws, city and nations ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38418</idno>
+            <idno type="STC">Wing E3018</idno>
+            <idno type="STC">ESTC R21515</idno>
+            <idno type="EEBO-CITATION">12121474</idno>
+            <idno type="OCLC">ocm 12121474</idno>
+            <idno type="VID">54434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38418)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54434)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 66:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands present case stated ... partly occasioned by the late proclamation for the convening of a Parliament ... wherein the arbitrary unparallel'd proceedings of the army and their adherents, since 1641 to this time, their dissolving of all Parliament powers and governments to perpetuate themselves are discussed and discovered ... : as also a declaration to live and die with the generals by authority of Parliament and the city of London in defence of the Parliament, laws, city and nations ...</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54434:1" rendition="simple:additions"/>
+            <pb facs="tcp:54434:1" rendition="simple:additions"/>
+            <pb facs="tcp:54434:2"/>
+            <pb facs="tcp:54434:2" rendition="simple:additions"/>
+            <p>ENGLANDS preſent <hi>Caſe</hi> ſtated, IN A further <hi>Remonſtrance</hi> of many thouſands of the Citizens, Houſholders, Freemen and Apprentizes of the City of <hi>LONDON,</hi> agreeing with the ſence of the major part of the People of this NATION:</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>artly occaſioned by the late Proclamation for the convening of a Parliament (by the arbitrary Will and power of <hi>Charles</hi> Lord <hi>Fleetwood, Bulſtrod</hi> Lord <hi>Whitlock Desborough,</hi> and ſome others, of the Military Officers at <hi>Walling<g ref="char:EOLhyphen"/>ford</hi> Houſe and elſewhere, tending to the utter ſubverſion of the Rights, Liberties and Priviledges of Parliaments, Governments, Laws, Freedoms and Proprieties of the Free people of the Nation) Againſt which they do proteſt.</p>
+            <p>Wherein the arbitrary unparallel'd procee<g ref="char:EOLhyphen"/>dings of the Army and their adherents, ſince 1641. to this time, their diſſolving of all Parlia<g ref="char:EOLhyphen"/>ment Powers and Governments, to perpetuate themſelves, are diſcuſſed and diſcovered.</p>
+            <p>With ſeveral ſerious Propoſals and Expedients for the ſpeedy compoſure of all Intereſts and Diffe<g ref="char:EOLhyphen"/>rences, ſetling the Nation in Peace and Unity upon a righteous Foundation, to prevent the ſpilling of more Engliſh Bloud.</p>
+            <p>As alſo a Declaration to live and die with the Generals by authority of Parliament and the City of <hi>London,</hi> in Defence of the Parliament, Laws, City and Nations, and the Rights, Priviledges, Liberties, Freedoms and Proprieties of the free People againſt all perſons whatſoever that ſhall Declare or Act againſt the ſame, or exerciſe an arbitrary illegal Power in impriſoning or levying of Taxes, Ex<g ref="char:EOLhyphen"/>ciſe, Cuſtom, Free-quarter, or other<g ref="char:EOLhyphen"/>wiſe without authority of Parliament.</p>
+            <p>Printed <hi>Anno Domini,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:54434:3"/>
+            <pb n="3" facs="tcp:54434:3"/>
+            <head>
+               <hi>ENGLANDS</hi> Preſent Caſe Stated.</head>
+            <p>CHARLS <hi>late King of</hi> England <hi>in the Year</hi> 1640. <hi>did ſummon a Parliament conſiſtting of two Hou<g ref="char:EOLhyphen"/>ſes, of Lords and Commons to do and conſent to thoſe things which ſhould happen to be ordained by Com<g ref="char:EOLhyphen"/>mon conſent of the King, Lords, and Commons, by Common Council of the Realm, concerning certain arduous and ur<g ref="char:EOLhyphen"/>gent affaires touching the Defence, State, Crowns, of the King and his Kingdome, and of the Church of England,</hi> To bear faith and true Allegiance to the King, his Heirs, and Succeſſors, and him and them to defend with all rights and juriſdictions annexed and be<g ref="char:EOLhyphen"/>longing to the <hi>Imperial Crown of England,</hi> againſt all attempts and conſpiracies whatſoever. Withall, which the Writs themſelves, Returns, Oathes, Prote<g ref="char:EOLhyphen"/>ſtation, League, Covenant, Declarations, Votes and Remonſtrances of both Houſes of <hi>Parliament,</hi> ſub<g ref="char:EOLhyphen"/>mitted unto ſworn, &amp; engaged to maintain by all the people of <hi>England,</hi> beſides the Oathes of Suprema<g ref="char:EOLhyphen"/>cy and Allegiance, do agree and ſolemnly bind them to the performance thereof.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>1</label> Quer. 1. <hi>Who can abſolve and nullifiie theſe Oathes by the Laws of God and man and how well the ſame have éen obſerved by the Army, the Authors of all our troubles, (though many of them have béen and continue great profe<g ref="char:EOLhyphen"/>ſſors of, and pretenders to Religion) is ſubmitted to the con<g ref="char:EOLhyphen"/>ſideration of the</hi> Nations; <hi>and whether the Army who were the Authors and Promoters, and forcible Compellers of the breaches thereof, have not committed hainous perjuries, and
+<pb n="4" facs="tcp:54434:4"/>involved y<hi rend="sup">e</hi> people in a</hi> National ſin not to be pardoned <hi>by the Laws of God and Man without cordial contrition and actual ſatisfaction and reparation, with amendment of their lives and converſations for the time to come.</hi>
+            </p>
+            <p>
+               <hi>King Charles</hi> That commoned the ſaid <hi>Parliament di<g ref="char:EOLhyphen"/>ed a violent death by the hands</hi> of his own <hi>ſubjects</hi> &amp; <hi>ſer<g ref="char:EOLhyphen"/>vants</hi> the Army, as an Offendor: ſome of them decla<g ref="char:EOLhyphen"/>ring againſt his <hi>office,</hi> ſome againſt his miſgovernment, and promiſing <hi>Reformation</hi> in <hi>Church and State,</hi> wherein we judge the Army the Active, and the Parliament the Paſſive power who were forced to yield unto and comply with them therein.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>2</label> Quer. 2. <hi>Whether thoſe that ruled ſince under the Army were not guilty of far more hainous ſins and trangreſſions then theſe for which they impeached their KING.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>3</label> Quer. 3. <hi>Whether they have not ſince ſet up a ſingle Per<g ref="char:EOLhyphen"/>ſon, who with his adherents were guilty of more arbitrari<g ref="char:EOLhyphen"/>nes and tyranny, then the virulency of their Pens and malice of their Tongues could impeach their</hi> lawful Soveraign.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>4</label> Quer. 4. <hi>What</hi> Reformation <hi>have been ſince wrought in</hi> Church and State <hi>as was promiſed to the Nations.</hi>
+            </p>
+            <p>
+               <hi>Or rather are not the Nations</hi> Impoveriſhed <hi>by the</hi> Ambi<g ref="char:EOLhyphen"/>tion, pride <hi>and</hi> Covetouſneſs, <hi>of thoſe that ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce</hi> Uſurped <hi>the</hi> Supream power <hi>having conſumed many</hi> Millions of Money <hi>beſides the ſpilling</hi> the Blood of ſo many thouſands Chriſti<g ref="char:EOLhyphen"/>an Engliſh Freemen, <hi>the</hi> Arbitrary <hi>and</hi> wrongful impriſon<g ref="char:EOLhyphen"/>ment <hi>of their</hi> perſons, Imbezelling <hi>and</hi> Robbing <hi>them of their</hi> Goods, <hi>the</hi> Deſtruction <hi>of the</hi> Trade, Honour, <hi>and</hi> In<g ref="char:EOLhyphen"/>tereſt <hi>of the</hi> Nations, <hi>both at home and abroad, and all theſe evils wrought by an Apoſtatized, Ambitious, Deceitful, over-ruling part of the Army.</hi>
+            </p>
+            <p n="5">5. <hi>Whether by the</hi> Death <hi>of the late</hi> King Charles <hi>the ſaid Parliament (which were called by his writ to conſult and adviſe with him, being the head and one of the thrée E<g ref="char:EOLhyphen"/>ſtates which make a Parliament) were</hi> ipſo facto <hi>diſſolved. And whether after his death they had any power to ſit or make Laws which require the royal conſent of the King,
+<pb n="5" facs="tcp:54434:4"/>for if the head be cut off, how can the Body live or act, and with whom could they</hi> treat, conſult, <hi>or</hi> adviſe?</p>
+            <p n="6">6. <hi>If ſo, What power</hi> Oliver Cromwel <hi>or</hi> Richard <hi>his Son and their awherents (being common Subjects of the Nation) had to call</hi> Parliaments <hi>or make</hi> Laws, <hi>ſince neither of them did pretend</hi> Title <hi>to the</hi> Crown; <hi>and therefore may not bear the favourable ſtile of</hi> Uſurpers <hi>or</hi> Kings de factor. <hi>But rather ought to bear the names of unpa<g ref="char:EOLhyphen"/>rallelled-unpardonable</hi> Traitors <hi>meriting exemplary condigne puniſhment</hi> de jure, <hi>and therefore of what validity are their</hi> Acts <hi>and</hi> Ordinances.</p>
+            <p n="7">7. <hi>What legal power hath</hi> Charles Fleetwood, John Lambert, <hi>or</hi> Bulſtrode Whitlock, Desborough, <hi>or any others of their</hi> confederacie <hi>to</hi> call a Parliament.</p>
+            <p n="8">8, <hi>If they call a</hi> Parliament <hi>as ſouldiers, who will obey them, or how may they be ſubmitted unto without giving up the rights, liberties, and priviledges, and birth-rights of the people of the thrée Nations to a few inconſiderable perſons in Armes; againſt whom</hi> General Monck, Admiral Lawſon, <hi>the</hi> City of London <hi>and aſwell the</hi> two Houſes of parliament <hi>ſitting in</hi> 1640. <hi>as the remainder of the</hi> parliament <hi>that laſt ſat do</hi> proteſt <hi>againſt and declare them Rebels and Traytors by the Laws of the Nation, and every one of the ſaid great</hi> Bodies, <hi>remaining</hi> Authorities <hi>and</hi> powers, <hi>appear more conſi<g ref="char:EOLhyphen"/>derable and have greater right therein, in the judgement and opinion of the Major part of the people of the thrée Nations, and greater eſtates and fortunes to anſwer for their actions then theſe few perſons that aſſume to themſelves this</hi> Regal Magiſterial <hi>and</hi> Legiſlative power.</p>
+            <p n="9">9. <hi>Conſider the ill conſequence of the Nations</hi> condiſcen<g ref="char:EOLhyphen"/>tion <hi>and</hi> ſubmiſſion <hi>to ſuch a</hi> Call, <hi>ſince it procéeds from a party or faction in an Army who have béen the inſtruments to put their</hi> Lawful King to Death; Subverted, Diſſolved, <hi>and</hi> interrupted <hi>all that boar the name of Parliaments ever ſince they left their own</hi> Call, <hi>and whereunto they have ſubmit<g ref="char:EOLhyphen"/>ted and received their Commiſſions from them, and in the face of the Nations promiſed to yieldobedience unto them; and all this evil carried on to perpetuate themſelves and</hi>
+               <pb n="6" facs="tcp:54434:5"/>poſterity <hi>in an</hi> Arbitrary Military <hi>tyrannical power over our lives, perſons, and eſtates, under the many ſpecious falſe pretences of</hi> Reformation, Religion, Freedom, Liberty of conſcience, ſecuring our civil and ſpiritual rights, <hi>which they every day deſtroy and deprive us of, who are now neceſſita<g ref="char:EOLhyphen"/>ted to call a Parliament for the ſafety of themſelves, or rather nine field Officers, againſt their own wills and diſpoſitions to amuſe and ſilence the Nation, and hold the hands of the people from executing</hi> Gods wrath and vengeance <hi>on them until they arm and ſtrengthen themſelves with the</hi> baſeſt <hi>and</hi> moſt ſordid <hi>ſort of the people, in hops of the</hi> plunder of the City and Nation; <hi>perſons</hi> deſtructive to <hi>all</hi> Governments, Civil ſocieties, Rights and proprieties, <hi>and when they have fortified themſelves with theſe miſcreants and hirelings they will according to their wonted practiſe either diſſolve this parliament now intended to be convened, (if they cannot by their factious partial Sheriffs Sword-men and looſe adherents form them according to their own unly<g ref="char:EOLhyphen"/>mitted, unſetled wills &amp; pleaſures<g ref="char:punc">▪</g>) or otherwiſe ſeclude all thoſe that are not for their profit &amp;</hi> intereſt, <hi>by colour of their</hi> pocket, dormant, exceptions, fundamentals, reſtrictions, and qualifications <hi>already prepared &amp; to be provided for y<hi rend="sup">e</hi> purpoſe notwithſtanding their ſugered pretence of a</hi> Free Parliament, <hi>never by them i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te<g ref="char:cmbAbbrStroke">̄</g>ded, being a conſtitution (really aſtabliſhed) far more</hi> deſtructive <hi>to them then the laſt</hi> parliament, <hi>whoſe</hi> readmiſſion <hi>they fear, well knowing their guilt, and that the</hi> Parliament <hi>know alſo how well they kéep their</hi> Oaths, Faith, <hi>and</hi> promiſes <hi>according to that old verſe</hi> Nulla fides pietaſ<g ref="char:EOLhyphen"/>que vi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is qui caſtra ſequntur. <hi>And thoſe that ſhall have leave to ſit ſhall ſerve only for theſe purpoſes,</hi> viz.</p>
+            <p n="1">1 <hi>To paſe an</hi> act <hi>of</hi> Indempnity <hi>for all their former</hi> evill doings, <hi>and</hi> breaches of faith and truſt, <hi>and for what ever more</hi> Villanies <hi>ſhall be committed by them, or their</hi> Party <hi>for the</hi> time to come, <hi>and to have a ſtanding perpetuall</hi> Committee, <hi>for that purpoſe.</hi>
+            </p>
+            <p n="2">2 <hi>To Vote this Part of the</hi> Army <hi>that call them,</hi> the e<g ref="char:EOLhyphen"/>verlaſting Army, <hi>to hold and continue, theſe ſeverall</hi>
+               <pb n="7" facs="tcp:54434:5"/>Mllitary commands <hi>now aſſumed by themſelves, and given to one another during their lives, and to intail the ſame with a</hi> Continuando <hi>to poſterity, being one of their</hi> Ungratious, Trayteerous, Shameleſs Funda<g ref="char:EOLhyphen"/>mentals.</p>
+            <p n="3">3 <hi>To lay</hi> heavy unſupportable Taxes <hi>and</hi> Impoſiti<g ref="char:EOLhyphen"/>ons <hi>on the poor</hi> afflicted, oppreſſed thred bare Nation, <hi>now lying under that</hi> unſufferable <hi>burthen of</hi> free quar<g ref="char:EOLhyphen"/>ter, <hi>againſt all</hi> Law <hi>and</hi> Conſcience, <hi>being one of the great</hi> Crimes <hi>wherewith they charged the late</hi> King, <hi>and the Earle of</hi> Strafford <hi>and others, and took away their Lives on pretence of being guilty thereof; and for which theſe Arminians, Anabaptiſtarians, and wicked Traytors ought to die the common death of</hi> Traytors, Thieves <hi>and</hi> Murtherers <hi>by the</hi> Laws <hi>of the Nation.</hi>
+            </p>
+            <p n="4">4. <hi>To take away</hi> Tyths, Miniſters <hi>and</hi> Miniſtry, <hi>with the</hi> Univerſities, <hi>and to bring the</hi> Tyths, Church-Re<g ref="char:EOLhyphen"/>venues, Colledge-penſions, <hi>and all</hi> Charitable Gifts <hi>into a</hi> publique Treaſury <hi>for the</hi> maintenance <hi>of theſe</hi> Legiſlators, <hi>whileſt the</hi> Learned Miniſters <hi>of the Nation go begging; and in their ſtead to appoint a few</hi> Mecha<g ref="char:EOLhyphen"/>nick ignorant Emiſſaries <hi>to preach up the Army</hi> Do<g ref="char:EOLhyphen"/>ctrines <hi>and Intereſts after the rate of</hi> 20 <hi>l.</hi> per annum, <hi>as they have already practiced in</hi> Wales, <hi>and other</hi> re<g ref="char:EOLhyphen"/>mote parts <hi>of the</hi> Nation.</p>
+            <p n="5">5. <hi>To take away the Law,</hi> Profeſſors and profeſſion thereof, <hi>&amp;</hi> ſequeſter <hi>all the rich</hi> Offices <hi>and</hi> places <hi>be<g ref="char:EOLhyphen"/>longing to Courts of</hi> Juſtice, (<hi>being the officers</hi> Freeholds) <hi>into their own hands, under pretence of</hi> regulation <hi>of the</hi> Laws (<hi>which they neither</hi> underſtand <hi>nor intend to</hi> o<g ref="char:EOLhyphen"/>bey) <hi>that the</hi> Nations <hi>may be governed by their own</hi> arbitrary wills <hi>and</hi> pleaſures, <hi>and nothing left to ſe<g ref="char:EOLhyphen"/>cure</hi> Propriety, Intereſt, Priviledge, Freedom <hi>or Li<g ref="char:EOLhyphen"/>berty of the people.</hi> But the Lord have mercy upon us.</p>
+            <pb n="8" facs="tcp:54434:6"/>
+            <p n="6">6. <hi>To grant</hi> Liberty of Conſcience <hi>to</hi> themſelves <hi>and all of their</hi> own party <hi>and no others; to</hi> violate <hi>all</hi> Laws, Oaths, Covenants, Vows, Promiſes, Prote<g ref="char:EOLhyphen"/>ſtations, Declarations, <hi>and all that is called</hi> ſacred; <hi>and to walk after their own</hi> pride, luſt <hi>and</hi> avarice: <hi>and to grant</hi> liberty <hi>to all others to</hi> labour <hi>and</hi> work <hi>for them as their</hi> ſlaves <hi>and</hi> vaſſals, <hi>and to endure all manner of</hi> ignominious reproches, puniſhments, impriſonments, poverty <hi>and</hi> death it ſelf; <hi>for which the people ſhall be bound to prvy</hi> as the onely remedy to rid them from their unſufferable ſlavery and bondage.</p>
+            <p n="10">10. <hi>It it map not be yet</hi> ſeaſonable <hi>to ask Honcurable Perſon the</hi> L. Whitlock <hi>by what</hi> Authority <hi>he doth ſo highly</hi> adventure to call a Parliament, <hi>whether by</hi> Authority <hi>of the</hi> Army Officers <hi>at</hi> Wallingford <hi>Houſe, or by vertue of the</hi> Act, of King, Lords, and Commons, <hi>of</hi> 16 Car. <hi>as</hi> Lord keep<g ref="char:EOLhyphen"/>per of the great Seal of England, <hi>and to conſider the conſe<g ref="char:EOLhyphen"/>quence thereof and the puniſhments appertaining to any that ſhall counterfeit the great Seal and aſſume to themſelves ſo great an Authority, being as high a Treaſon as may be.</hi>
+            </p>
+            <p n="11">11. <hi>If by power of the</hi> Military Officers, <hi>then he is deſired to conſider who gave them</hi> Commiſſions, <hi>&amp; whether they that gave them their <hi>Commiſſions</hi> &amp; thoſe from whom they derive their Authority, have not been twice interrupted, kept out, and ſecluded by their dutiful ſervants, and how perilous it is for his Lordſhip</hi> (<hi>being an</hi> Eminent member of the Law) <hi>to indanger his own</hi> Perſon <hi>and</hi> Eſtate, <hi>&amp; the</hi> Liberties, Laws, and Priviledges <hi>of the whole</hi> Nation, <hi>to ſatisfie the</hi> Luſts, and boundleſs ſiekle wills <hi>of thoſe</hi> Military Changlings, <hi>he now ſeems to ſerve méerly for ſelf</hi> perſervation <hi>and the</hi> Cuſtody of the Seal.</p>
+            <p n="12">12. <hi>If as</hi> Lord Keeper, <hi>he iſſues forth writs, then who</hi> Com<g ref="char:EOLhyphen"/>miſſionated <hi>him, ſure the King did never impower him, and if he did his Commiſſion determined with his death, whereto he contributed; and we are ſure be bare not own a Commiſſion from his Son.</hi>
+            </p>
+            <p n="13">13. <hi>If from the</hi> Parliament in 1648, 1653, <hi>and</hi> 1659. <hi>Then
+<pb n="9" facs="tcp:54434:6"/>certainly either they are</hi> a Parliament <hi>ſtill or he is no</hi> Lord Keeper <hi>and why he ſhould bury his</hi> Maſters <hi>and</hi> Fellow Mem<g ref="char:EOLhyphen"/>bers <hi>alive a reaſon is humble demanded: when as</hi> Com<g ref="char:EOLhyphen"/>miſſionated <hi>by the laſt</hi> Parliament, <hi>he had two equally tru<g ref="char:EOLhyphen"/>ſted with him by the names of</hi> Lords, Commiſſioners, <hi>and not</hi> Lord Keepers, viz. <hi>the</hi> Lord Widdrington, <hi>and</hi> Lord Keeble <hi>who are both alike, And it is not amiſſe to put his Lord<g ref="char:EOLhyphen"/>ſhip in remembrance, that</hi> Oliver Cromwell <hi>did ſince change theſe Commiſſioners, and appointed the</hi> Lord Fines <hi>and the</hi> Lord Liſle, (Preſident of the High Court of Juſtice) <hi>and his</hi> Lordſhip <hi>was at laſt added to them Lord keepers: And the laſt</hi> Parliament <hi>appointed the</hi> Lord Bradſhaw, Lord Terrill, <hi>and</hi> Lord Fountain, <hi>Lords, Kéepers; and how the</hi> Lord Whit<g ref="char:EOLhyphen"/>lock <hi>came by the Seal and the ſingle Office of</hi> Lord Keeper, <hi>is worthy the Inquiry. But how he comes to iſſue forth Writs for a Parliament to be choſen and held the</hi> 24 of Janu<g ref="char:EOLhyphen"/>ary <hi>next deſerves a greater</hi> Examination.</p>
+            <p n="14">14. <hi>If by colour of the</hi> Act <hi>of</hi> 16 Car. <hi>Then whether the thrée years time be not lorg ſince</hi> elapſed <hi>ſince the firſt</hi> Diſſolution <hi>of the laſt</hi> Parliament <hi>in</hi> 1648, <hi>or</hi> 1653, <hi>by the</hi> Death <hi>of the</hi> King: ſecluding, <hi>and</hi> interrupting <hi>the</hi> remaining Members, <hi>and ſome perſons deſerve to be</hi> puniſhed <hi>for not</hi> Iſſuing forth Writs <hi>according to the ſaid</hi> Act <hi>in ſo many years Elapſed.</hi>
+            </p>
+            <p n="15">15. <hi>Whether we are not far</hi> Short <hi>of the thrée years if the Act ſhall be conſtrued to commence from the</hi> diſſolution <hi>of</hi> O<g ref="char:EOLhyphen"/>liver <hi>or</hi> Richards <hi>laſt</hi> Parliaments, <hi>who at the paſſing of the ſaid</hi> Act, <hi>had little hopes, or probability to</hi> uſurp <hi>the</hi> Regal Legiſlative Power, <hi>at leaſt wiſe were not intended by</hi> King Charles <hi>or his</hi> Parliament <hi>to be their</hi> Succeſſors <hi>in the Exe<g ref="char:EOLhyphen"/>cution of the</hi> Legiſlative Power.</p>
+            <p n="16">16. <hi>If a</hi> Parliament <hi>be called according to the Act of</hi> 16 Car. <hi>then no</hi> exceptions <hi>or</hi> Proviſions <hi>muſt be made nor any</hi> ſecluded <hi>or</hi> excluded <hi>from diſcharging their</hi> Truſts in Parlia<g ref="char:EOLhyphen"/>ment <hi>for being new</hi> Chriſtned <hi>by the names of</hi> Cavaliers, De<g ref="char:EOLhyphen"/>linquents, Boothonians, Epiſcoparians, Presbiterians Indepen<g ref="char:EOLhyphen"/>dents, Anabapti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, Fift-monarchy-men, Quakers, &amp;c. <hi>But it muſt be a</hi> Free Parliament <hi>indéed and no perſon to be exempted, or expelled but for</hi> good and legal cauſe <hi>by</hi> Judge<g ref="char:EOLhyphen"/>ment
+<pb n="10" facs="tcp:54434:7"/>of <hi>his</hi> Fellow Sumoners, <hi>and not by a</hi> Council of Offi<g ref="char:EOLhyphen"/>cers <hi>who can hardly hope for pardon from ſuch a</hi> Parliament.</p>
+            <p n="17">17. <hi>We muſt not only by the ſaid Act have a Houſe of Commons, but alſo a Houſe of Lords, And the</hi> King <hi>in whoſe name the Writ muſt</hi> Run, <hi>and by his</hi> Autho<g ref="char:EOLhyphen"/>rity <hi>the</hi> Parliament called <hi>ought to come in to make it a</hi> Free and compleat Parliament, <hi>and how ſhall ſuch a</hi> parliament <hi>be called without a</hi> King, <hi>and you wil ſay how ſhal the</hi> King <hi>(as the caſe now ſtands) be called without a</hi> parlia<g ref="char:EOLhyphen"/>ment, <hi>And ſo by conſequence no</hi> Parliament <hi>no</hi> King, <hi>no</hi> King <hi>no free Parliament, no</hi> Free parliament <hi>no</hi> Money, <hi>no Money no</hi> Army, <hi>and at laſt the</hi> Legiſlative power <hi>by</hi> Extraordinary providence, <hi>may</hi> revert, <hi>and</hi> devolve <hi>it ſelf into the hands of</hi> the people <hi>the firſt</hi> Donors <hi>and</hi> legal owners thereof, to whom of right it juſtly belongeth, and from whom all the Legiſlative power originally was &amp; ſtill ought to be derived.</p>
+            <p n="1">1. For that the Lord Keepers and Commiſſioners of the Great Seal, who were by the ſaid Act of the 16. <hi>Car.</hi> to call triennial Parliaments did not iſſue forth Writs for that purpoſe.</p>
+            <p n="2">2. The Peers and Nobles did not call a Parlia<g ref="char:EOLhyphen"/>ment according to that Act whereby they highly violated the truſt therein repoſed.</p>
+            <p n="3">3. The Sheriffs violated their truſts, who on De<g ref="char:EOLhyphen"/>fault of the perſons aforeſaid, were to Summon the Freeholders and Burgeſſes to chooſe their Repreſen<g ref="char:EOLhyphen"/>tatives.</p>
+            <p n="4">4. The people themſelves by the ſaid Act (on faile made by all the ſaid perſons ſo intruſted) were to meet at a certain time therein prefixed to chooſe their Repreſentatives, which they have neglected; whereby the tenor and effect of the ſaid Act hath not been obſerved and put in force; ſo that there have been great neglects and failings in all parties and per<g ref="char:EOLhyphen"/>ſons concerned and intruſted by the ſaid Act.</p>
+            <div type="text">
+               <pb n="11" facs="tcp:54434:7"/>
+               <head>Therefore for the reconciling of all Parties, compoſing of all Differences, Reforma<g ref="char:EOLhyphen"/>tion of all Abuſes, and what is amiſs in Church and State, and eſtabliſhing a firm, laſting, and righteous Setlement, Peace, U<g ref="char:EOLhyphen"/>nity and Amity in the three Nations. It is humbly propoſed as the beſt expedient to the preſent exigencies of the Nation.</head>
+               <p>That the Parliament lately interrupted 13 <hi>October</hi> laſt, be invited, incouraged and protected to Sit a<g ref="char:EOLhyphen"/>gain, being <hi>de facto</hi> the laſt remaining authority of the Nation, twice intruſted therewith, and the three Nations ſubmitting thereunto as the ſupreme au<g ref="char:EOLhyphen"/>thority, from whom all Commiſſions, Millitary and Civil, are now derived, and all Writs iſſue by their act in the Name of the Keepers, &amp;c. and that they doe call in their Fellow Members (ſecluded by the army) who have not forfeited their places and free<g ref="char:EOLhyphen"/>doms (which we ſubmit to the judgement of Parlia<g ref="char:EOLhyphen"/>ment) and iſſue forth Writs for the Election of Knights and Burgeſſes to fill up all vacant places, whereby the Nations may be governed by their own Repreſentatives in a full and free Parliament where<g ref="char:EOLhyphen"/>unto all perſons as well as our ſelves will moſt readi<g ref="char:EOLhyphen"/>ly ſubmit and acquieſce in their Councels &amp; Deter<g ref="char:EOLhyphen"/>minations, which we deſire may be effectually im<g ref="char:EOLhyphen"/>ployed more particularly for theſe further ends.</p>
+               <p n="1">1. To eſtabliſh a righteous Government and an equal Repreſentative and future Succeſſion of par<g ref="char:EOLhyphen"/>liaments, and a prefixed time appointed for the Diſ<g ref="char:EOLhyphen"/>ſolution of this Parliament.</p>
+               <p n="2">2. To ſetle, countenance, and protect a Godly, Learned and Orthodox Miniſtry in the Nations, with
+<pb n="12" facs="tcp:54434:8"/>proviſion for Liberty of Conſcience to others of dif<g ref="char:EOLhyphen"/>ferent opinions and perſwaſions, and ſuch reſtricti<g ref="char:EOLhyphen"/>ons as may alſo prevent the diſturbance of the Go<g ref="char:EOLhyphen"/>vernment in Church and State by abuſing the liber<g ref="char:EOLhyphen"/>ty ſo granted unto them.</p>
+               <p n="3">3. To regulate the Laws of the Nation, whereby the ſame may be leſs chargeable and dilatory to the people then heretofore they were exerciſed.</p>
+               <p n="4">4. To ſecure our Lives, Liberties, Properties, Pri<g ref="char:EOLhyphen"/>viledges, and immunities by a confirmation of <hi>Mag<g ref="char:EOLhyphen"/>na Charta,</hi> and the petition of right and other Laws &amp; ſuch other additional Laws to be made as ſhall be thought neceſſary to preſerve the Nations from Ar<g ref="char:EOLhyphen"/>bitrarious tyranny and oppreſſion.</p>
+               <p n="5">5. To revive our decayed trade and Navigation, and regain our loſt credit, Peace, Traffick, and inte<g ref="char:EOLhyphen"/>reſt with forrein Princes and States.</p>
+               <p n="6">6. To indempniſie, and pardon all the Souldiers, and ſuch and ſo many of their Officers and others, for their many breaches of truſts, and high infring<g ref="char:EOLhyphen"/>ments of the priviledges of Parliament, and known Laws of the Nation, as may be conſiſtent with the future peace of the Nation, and the honor and ſecu<g ref="char:EOLhyphen"/>rity of the Parliament againſt the like attempts for the future.</p>
+               <p n="7">7. To take all poſſible ſpeedy and effectual courſe for ſatisfying the Arrears of the Army, other then ſuch as ſhall be exempted from pardon, wherein we ſubmit our ſelves to their Wiſedome, Juſtice, and Clemency, and that the Nations hereafter may be Governed by the Civil power, by their own Re<g ref="char:EOLhyphen"/>preſentatives, eaſed of their great burthens, and tax<g ref="char:EOLhyphen"/>ations, and freed from the former oppreſſion and ſlavery, the Nation groaned under, the Military and
+<pb n="13" facs="tcp:54434:8"/>Arbitrary unlimitted powers, lately exerciſed over them.</p>
+               <p n="8">8. That the people of the Nation may be intruſted with their own Arms for the publick defence of the Nation, and the Army reduced to ſuch a conveni<g ref="char:EOLhyphen"/>ent number as may be uſeful only for ſecurity of the peace of the Nation. And that the Parliament would intruſt in places of command, ſuch perſons only as are obedient to authority and behave themſelves conformable to the commands of the Parliament, and that as much as in them lyeth, perſons of unſta<g ref="char:EOLhyphen"/>ble Fanatick Spirits, Enemies to civil Governments and of itching diſpoſitions, and principles to change and overturn Governments may not be intruſted with the Arms, Garriſons, Forts, and power of the Nations.</p>
+               <p>If theſe things be not ſpeedily granted, and the <hi>Lord Whitlock,</hi> and ſuch of the Army (who counte<g ref="char:EOLhyphen"/>nance and imploy him to call a <hi>Parliament</hi> by pre<g ref="char:EOLhyphen"/>tence of the order of the <hi>Committee of Safety,</hi> (whoſe authority we utterly renounce) ſhall perſevere there<g ref="char:EOLhyphen"/>in after the ſpace of 48 Hours, from the publication hereof,</p>
+               <p n="1">1. We do hereby proteſt againſt their proceedings therein as <hi>arbitrarily, unwarrantable,</hi> and <hi>trayterouſly,</hi> done without any colour of Law, and legal Autho<g ref="char:EOLhyphen"/>rity, to Delude, Inſnare, and Inſlave the free people of this Nation, with falſe pretences of a Free <hi>Parli<g ref="char:EOLhyphen"/>ament,</hi> with an abſolute intention in the interim to Liſt and Arm the moſt Vile, Wicked, wretched, poor ſordid Sectaries and Vermines of prey in the Nation. 1. To Diſarm us. 2. To Murther us. 3. To poſſeſs themſelves of our Eſtates, and Fortunes.</p>
+               <pb n="14" facs="tcp:54434:9"/>
+               <p n="2">2. We Declare, in caſe the ſaid <hi>Charls Fleetwood,</hi> Lord <hi>Whitlock</hi> and <hi>Army-Officers,</hi> or any other perſons do continue in their evil purpoſes aforeſaid, That we ſhall not like Dogs bark at, or bite the ſtone, <hi>viz.</hi> (the <hi>Redcoat</hi>) But look on the <hi>grand Officers Inſtru<g ref="char:EOLhyphen"/>ments and carriers on of theſe Trayterous Deſigns</hi> againſt the <hi>Parliament</hi> and <hi>Nation;</hi> and poſt and publiſh their names with their <hi>crimes and puniſhments</hi> to be inflicted on them, and ſhall offer and pay 1000 l. ſterling for the HEAD of every ſuch grand <hi>Traytor</hi> ſo to be proclaimed and publiſhed to any noble <hi>Hero</hi> that ſhall venture his life to redeem his Coun<g ref="char:EOLhyphen"/>trey from ſlavery and bring in the ſame, with an aſſurance of other Marks of Honour and Reward to all that ſhall contribute their aſſiſtance therein, be<g ref="char:EOLhyphen"/>ing a <hi>legal and warrantable practice</hi> when <hi>Traytors</hi> and <hi>Malefactors</hi> are become ſo <hi>ſtrong and hardy</hi> as to pro<g ref="char:EOLhyphen"/>tect themſelves by <hi>Force</hi> againſt the <hi>Power</hi> of the <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ws</hi> of the <hi>Nation</hi> wherein they live.</p>
+               <p n="3">3. We declare againſt all perſons whatſoever that ſhall preſume to Tax, Levy, Colle<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, or cauſe to be Levied or gathered any T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xes, <gap reason="illegible" resp="#UOM" extent="5+ letters">
+                     <desc>•••••…</desc>
+                  </gap>ſi<g ref="char:EOLhyphen"/>tions Cuſtoms, Exciſe, Sum or Sums of Money what<g ref="char:EOLhyphen"/>ſoever by any pretence or to any uſe whatſoever other then by Act and authority of Parliament, and likewiſe declare againſt all perſons that ſhall labour to impoſe free Quarter, on the free people of the Na<g ref="char:EOLhyphen"/>tion without their own conſents or the conſent<g ref="char:punc">▪</g> of the Repreſentatives of the reſpective Ciries, Tow s, and Counties, of <hi>England,</hi> in <hi>Parliament</hi> Aſſembled, And if any ſhall tranſgreſſe herein, we ſhall deem them Traytors by the Known Laws of the Nation, &amp;
+<pb n="15" facs="tcp:54434:9"/>by force reſiſt them, and apprehend their perſons; wherby they may be proceeded againſt as Traytors, and Rebells, According to the known Laws of the Nation. And we doe invite and incourage all the good people of the Nation, to joyne with us herein and not to pay them any publique or other moneys remayning in their hands, or give obedience to any perſon or perſons that ſhall require or Demand the ſame unles by Authority of <hi>Parliament.</hi> And we ſhall with our lives, and fortunes joyne in the protection and defence of each other againſt the offenders afore<g ref="char:EOLhyphen"/>ſaid, in endeavouring the effecting of the matters and things herein before declared for.</p>
+               <p n="4">4. We do further Declare, that we ſhall with our Lives and Fortunes joyn with and aſſiſt the Generals by Authority of <hi>Parliament,</hi> particularly the Lord <hi>Monck,</hi> Admiral <hi>Lawſon,</hi> Sir <hi>Arthur Haſlrick,</hi> Colonel <hi>Morley,</hi> Gol, <hi>Waulton,</hi> Lieut. General <hi>Ludlow,</hi> Major General <hi>Overton,</hi> with the City of <hi>London</hi> &amp; Nation, in defence of the <hi>Parliament,</hi> City, and the Laws and Priviledges thereof, and the Rights, Priviledges, Li<g ref="char:EOLhyphen"/>berties, Freedoms and Proprieties of the Free people of this Nation, againſt all perſons whatſoever that ſhal Declare or Act againſt the ſame.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
